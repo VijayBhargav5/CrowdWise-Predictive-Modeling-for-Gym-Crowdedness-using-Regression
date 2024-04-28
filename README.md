@@ -1,1 +1,3 @@
 # CrowdWise-Predictive-Modeling-for-Gym-Crowdedness-using-Regression
+
+In the current generation, youth spend most of their time in the gym trying keep up their fitness. But the problem arises when a person goes to the gym but all the gym machinery that they require are already occupied and they have to wait till the person using it finishes thus wasting a lot of time. This paper brings a solution to this problem by using many intelligent models that predict the correct time for a person to visit the gym based on the parameters in the dataset used. In this paper we have used possible regression techniques and advanced regression techniques using ensemble learning.
